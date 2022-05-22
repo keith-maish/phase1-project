@@ -41,5 +41,5 @@ The most popular movies amongst the general audience seems to be science fiction
 I have also concluded that the top movies have multiple sequels. So i suggest Microsoft studios to:
 - to put  some of their resources aside for a future sequel.
 
-<img src= 'images/movie_ratings'>
-<img src= 'images/genre_counts'>
+<img src= 'images/movie_ratings.png'>
+<img src= 'images/genre_counts.png'>
